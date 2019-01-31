@@ -17,7 +17,7 @@ p{
 .list{
     padding: 8px 1rem;
     border-radius: 8px;
-    background: #f1f1f1;
+    background: #88cccc75;
     display: flex;
     min-height: 60.333px;
     flex-direction: row;
